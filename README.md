@@ -27,11 +27,8 @@ npm run start
 전공기초 알려줘
 전공필수 알려줘
 ```
-
 ## Members of 맥쓰사
 * 이상현, 김용현, 김영규
-
 ## References
-
 * Tacotron : https://github.com/melonicedlatte/multi-speaker-tacotron-tensorflow
 * Web Speech API : https://github.com/fresh-web/web-speech
