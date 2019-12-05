@@ -15,13 +15,15 @@ And then, start the app
 npm run start
 ```
 <br>
+
 ## Members of 맥쓰사
 * 이상현, 김용현, 김영규
-<br>
+
 ## References
+
 * Tacotron : https://github.com/melonicedlatte/multi-speaker-tacotron-tensorflow
 * Web Speech API : https://github.com/fresh-web/web-speech
-<br>
+
 ## All design resources(Text, Background colors) are from:
 
 * Text: https://tympanus.net/Development/DecorativeLetterAnimations/
