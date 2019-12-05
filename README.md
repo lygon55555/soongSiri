@@ -14,7 +14,6 @@ And then, start the app
 ```js
 npm run start
 ```
-<br>
 
 ## Members of 맥쓰사
 * 이상현, 김용현, 김영규
