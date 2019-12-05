@@ -1,4 +1,5 @@
 # soongSiri
+![스크린샷 2019-12-05 오후 6 53 09](https://user-images.githubusercontent.com/39911797/70226717-a6d81880-1794-11ea-9132-380cc4f1a6a2.png)
 soongSiri(숭시리) is Soongsil University CSE chatbot. <br>
 Web Speech API - speech recognitnion <br>
 Tacotron - generating 유인나's voice <br>
@@ -15,6 +16,16 @@ And then, start the app
 
 ```js
 npm run start
+```
+
+## Speech Manual
+```
+너는 누구야?
+뭘 할 수 있어?
+박동주 교수님 연구실 어디야?
+학부 사무실 번호 알려줘
+전공기초 알려줘
+전공필수 알려줘
 ```
 
 ## Members of 맥쓰사
