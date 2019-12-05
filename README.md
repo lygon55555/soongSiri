@@ -23,8 +23,3 @@ npm run start
 
 * Tacotron : https://github.com/melonicedlatte/multi-speaker-tacotron-tensorflow
 * Web Speech API : https://github.com/fresh-web/web-speech
-
-## All design resources(Text, Background colors) are from:
-
-* Text: https://tympanus.net/Development/DecorativeLetterAnimations/
-* Background Colors: https://uigradients.com/
