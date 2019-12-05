@@ -1,6 +1,8 @@
 # soongSiri
 soongSiri(숭시리) is Soongsil University CSE chatbot. <br>
-Web Speech API was used for speech recognitnion, Tacotron was used for generating 유인나's voice. <br>
+Web Speech API - speech recognitnion <br>
+Tacotron - generating 유인나's voice <br>
+React - Web front-end <br>
 Collected 유인나's voice datasets from 유인나의 볼륨을 높여요(radio podcast).<br>
 
 In order to run this app:
