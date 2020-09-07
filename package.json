@@ -5,7 +5,7 @@
   "dependencies": {
     "animejs": "^3.1.0",
     "charming": "^3.0.1",
-    "papaparse": "^5.1.0",
+    "papaparse": "^5.2.0",
     "react": "^16.9.0",
     "react-charming": "^1.1.0",
     "react-dom": "^16.9.0",
